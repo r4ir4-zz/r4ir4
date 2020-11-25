@@ -1,3 +1,1 @@
-<b>teste</b>
-
-<img src="https://media3.giphy.com/media/PnpkimJ5mrZRe/giphy.gif">
+<img src="https://media4.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif">
