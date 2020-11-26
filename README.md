@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi friends <img src="https://media4.giphy.com/media/Zvt900PrtpL1CC7rml/giphy.gif?cid=ecf05e47e54bceead28bc34f649bb6078690d6832b791221&rid=giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=r4ir4&hide_title=true&hide_border=true&langs_count=5)
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
