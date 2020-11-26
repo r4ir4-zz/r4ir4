@@ -1,11 +1,11 @@
 ### Hello friends, my name is Raíra, but you can call me "Rai" since we both know that my name isn't quite easy to speak 😝
 
-<img src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e4777741127ca3377b8fc402813f8ce569dd44f39c8&rid=giphy.gif" width="1020px">
+<img src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e4777741127ca3377b8fc402813f8ce569dd44f39c8&rid=giphy.gif" width="500px">
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4ir4)](https://github.com/r4ir4/github-readme-stats)
 
 💻 **My Hall of projects**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4ir4)](https://github.com/r4ir4/github-readme-stats)
+
 🤖 **Hardware projects**
 
 📊 **What i am coding right now**
