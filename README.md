@@ -1,12 +1,7 @@
-### Hello friends, my name is Raíra, but you can call me "Raira" since we both know that my name isn't quite easy to speak 😝
-<img src="https://media4.giphy.com/media/Zvt900PrtpL1CC7rml/giphy.gif?cid=ecf05e47e54bceead28bc34f649bb6078690d6832b791221&rid=giphy.gif" width="1020px">
+### Hello friends, my name is Raíra, but you can call me "Rai" since we both know that my name isn't quite easy to speak 😝
+<img src="https://media1.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif?cid=ecf05e4797736a7709256d39b806544626ca3f6d8823b836&rid=giphy.gif" width="1020px">
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, ML and Blockchain
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar)
-- ⚡ Fun fact: I :heart: :dog:s
 
 📊 **This week I spent my time on**
 
@@ -14,8 +9,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Test](https://dev.to/r4ir4/this-is-a-test-o418)
+
 <!-- BLOG-POST-LIST:END -->
