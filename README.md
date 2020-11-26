@@ -1,7 +1,7 @@
 <h1 align="center">Hi there friends 👋, My name is Raíra Carvalho but you can call me "Rai" :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4ir4&label=Profile%20views&color=0e75b6&style=flat" alt="r4ir4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4ir4" alt="r4ir4" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4ir4&heme=onedark" alt="r4ir4" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
