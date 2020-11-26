@@ -1,4 +1,5 @@
-### Hi friends <img src="https://media4.giphy.com/media/Zvt900PrtpL1CC7rml/giphy.gif?cid=ecf05e47e54bceead28bc34f649bb6078690d6832b791221&rid=giphy.gif" width="100px"></a>
+### 
+<img src="https://media4.giphy.com/media/Zvt900PrtpL1CC7rml/giphy.gif?cid=ecf05e47e54bceead28bc34f649bb6078690d6832b791221&rid=giphy.gif" width="1020px"></a>
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
