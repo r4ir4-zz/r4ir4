@@ -5,7 +5,7 @@
 
 
 💻 **My Hall of projects**
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4ir4)](https://github.com/r4ir4/github-readme-stats)
 🤖 **Hardware projects**
 
 📊 **What i am coding right now**
