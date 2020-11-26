@@ -1,1 +1,1 @@
-<img src="https://github.com/r4ir4/r4ir4/blob/master/img/raira1.png">
+<img src="https://github.com/r4ir4/r4ir4/blob/master/img/raira1.png" onclick="return false;">
